@@ -1,1 +1,3 @@
-more pointers of c to learn
+more pointers of c to learn a
+dsfsdfsdf
+gsdgsfgfsg
